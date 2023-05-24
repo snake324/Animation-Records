@@ -10,6 +10,10 @@ body{
     height: 300px;
 }
 
+.container{
+    margin: auto;
+}
+
 .productname{
     background-color: #D9D9D9;
     padding: 2px;
@@ -17,6 +21,7 @@ body{
     width: 600px;
     text-align: left;
     float: right;
+    margin: auto;
 }
 
 .description{
@@ -26,4 +31,5 @@ body{
     width: 600px;
     text-align: left;
     float: right;
+    
 }
