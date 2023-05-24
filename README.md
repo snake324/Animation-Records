@@ -39,7 +39,7 @@ Página detalle de producto ->
 
 ​
 
-Extras:
+Extras ->
 
     Intercambiar imagen principal de la página detalle de producto por las imágenes en miniatura
     Botón de añadir al carrito funcional (sección carrito visible con la lista de los productos añadidos cuando un producto es añadido desde la galeria)
