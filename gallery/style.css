@@ -62,9 +62,14 @@ body{
 }
 
 .gallery{
-    
+    position: absolute;
+    top: 38%;
+    left: 38%;
 }
 
+.a{
+    float: left;
+}
 .mike {
     height: 100px;
     border: solid;
