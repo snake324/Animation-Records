@@ -1,0 +1,29 @@
+body{
+    background-image: url(/Images/fondo.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.mikepng{
+    width: 300px;
+    height: 300px;
+}
+
+.productname{
+    background-color: #D9D9D9;
+    padding: 2px;
+    border-radius: 25px 0px 0px 25px;
+    width: 600px;
+    text-align: left;
+    float: right;
+}
+
+.description{
+    background-color: #D9D9D9;
+    padding: 2px;
+    border-radius: 25px 0px 0px 25px;
+    width: 600px;
+    text-align: left;
+    float: right;
+}
