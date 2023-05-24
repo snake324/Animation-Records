@@ -1,0 +1,29 @@
+.mike {
+    height: 100px;
+    border: solid;
+    border-color: rgb(133, 133, 157);
+    width: 100px;
+    
+}
+.button {
+    background-color: #0c2e95;/*blue*/
+    border: cornflowerblue;
+    color: rgb(74, 137, 149);
+    padding: 15px 32px;
+    text-align: center; : Mike
+    text-decoration: Mike;
+    display: inline-block;
+    font-size: 20px;
+    width: 100px;
+
+}
+
+.rayo { 
+    height: 100px;
+    border: solid;
+    border-color: rgb(133, 133, 157);
+    width: 100px;
+
+}
+   
+
