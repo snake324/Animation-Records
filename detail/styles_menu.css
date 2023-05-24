@@ -1,0 +1,48 @@
+body {
+    background-image: url(/Images/pixar-logo.jpg);
+    font-family: fantasy;
+}
+
+.menu-principal {
+    padding: 20px;
+    padding: 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    }
+
+.logo img {
+    height: 80px;
+    width: 90px;
+}
+
+.logo h1 {
+    margin: 0;
+    font-size: 24px;
+    margin-left: 37%;
+    
+}
+
+.eslogan {
+    display: flex;
+    margin-left: 45%;
+    background-color: rgb(168, 208, 195);
+    border-radius: 25px 0px 0px 25px;
+
+    
+    
+}
+
+.carrito {
+    image-resolution:inherit ;
+    height: 50%;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
